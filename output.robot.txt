@@ -1,0 +1,4 @@
+Lich di chuyen   khoang cach
+1 3 20
+4 3 11
+3 4 11
